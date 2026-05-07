@@ -23,12 +23,14 @@ A responsive social network for sharing, discovering, and enjoying recipes. Brow
 
 ### Backend
 - **Node.js** with **Express.js** - REST API server
+- **Next.js**
 - **MongoDB** - NoSQL database
 - **Mongoose** - MongoDB object modeling
 - **CORS** - Cross-origin resource sharing
 
 ### Frontend
 - **React 18** - UI framework
+- **JQuery
 - **Context API** - State management
 - **CSS3** - Responsive styling with custom properties
 - **LocalStorage** - Session persistence
